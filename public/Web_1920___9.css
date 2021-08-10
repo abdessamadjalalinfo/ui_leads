@@ -1,0 +1,1196 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 9;
+	--web-view-id: Web_1920__9;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__9;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__9 {
+	position: absolute;
+	width: 1920px;
+	height: 3455px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 9;
+	--web-view-id: Web_1920__9;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(239,239,239,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 124px;
+	left: 0px;
+	top: 0px;
+}
+#Services {
+	left: 1146px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+	text-transform: uppercase;
+}
+#Home {
+	left: 1048px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+	text-transform: uppercase;
+}
+#Organization {
+	left: 1276px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	transition: all 0.3s linear;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___7.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+	text-transform: uppercase;
+}
+#Vacancies {
+	left: 1472px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,98,219,1);
+	text-transform: uppercase;
+}
+#Rectangle_856 {
+	fill: rgba(250,250,255,1);
+}
+.Rectangle_856 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 730px;
+	left: 1405px;
+	top: 164px;
+}
+#Contact {
+	left: 1624px;
+	top: 48px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___11.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+	text-transform: uppercase;
+}
+#Rectangle_5 {
+	fill: rgba(69,98,219,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 7px;
+	left: 1523px;
+	top: 89px;
+}
+#Always_Looking_for_New_Talent {
+	left: 200px;
+	top: 356.426px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(69,98,219,1);
+}
+#The_Match4Markets_team_consist {
+	left: 200px;
+	top: 518px;
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 234px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+}
+#Vacancies_ {
+	left: 200px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -22.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,34,1);
+}
+#magnet-me-LDcC7aCWVlo-unsplash {
+	position: absolute;
+	width: 542px;
+	height: 542px;
+	left: 1178px;
+	top: 258px;
+	overflow: visible;
+}
+#Composant_9__1 {
+	position: absolute;
+	width: 1920px;
+	height: 860px;
+	left: 0px;
+	top: 1958px;
+	overflow: visible;
+}
+#Groupe_18656 {
+	position: absolute;
+	width: 1920px;
+	height: 293px;
+	left: 0px;
+	top: 567px;
+	overflow: visible;
+}
+#Rectangle_352 {
+	fill: rgba(48,47,101,1);
+}
+.Rectangle_352 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 243px;
+	left: 0px;
+	top: 0px;
+}
+#Lorem_Ipsum_is_simply_dummy_te {
+	left: 200px;
+	top: 124px;
+	position: absolute;
+	overflow: visible;
+	width: 735px;
+	height: 56px;
+	line-height: 25px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#n_2021_Match4Markets {
+	left: 849px;
+	top: 265px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(38,38,38,1);
+}
+#Logo_here {
+	opacity: 0.278;
+	left: 200px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Rectangle_353 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_353 {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 68px;
+	left: 1480px;
+	top: 90px;
+}
+#Rectangle_354 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_354 {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 68px;
+	left: 1566px;
+	top: 90px;
+}
+#Rectangle_355 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_355 {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 68px;
+	left: 1652px;
+	top: 90px;
+}
+#facebook_1 {
+	fill: rgba(255,255,255,1);
+}
+.facebook_1 {
+	overflow: visible;
+	position: absolute;
+	width: 12.002px;
+	height: 24px;
+	left: 1508.999px;
+	top: 112px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#linkedin {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1589px;
+	top: 112px;
+	overflow: visible;
+}
+#Trac_1002 {
+	fill: rgba(255,255,255,1);
+}
+.Trac_1002 {
+	overflow: visible;
+	position: absolute;
+	width: 15.511px;
+	height: 16.426px;
+	left: 8.489px;
+	top: 7.574px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_1003 {
+	fill: rgba(255,255,255,1);
+}
+.Trac_1003 {
+	overflow: visible;
+	position: absolute;
+	width: 4.976px;
+	height: 16.023px;
+	left: 0.396px;
+	top: 7.977px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_1004 {
+	fill: rgba(255,255,255,1);
+}
+.Trac_1004 {
+	overflow: visible;
+	position: absolute;
+	width: 5.764px;
+	height: 5.791px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#twitter {
+	position: absolute;
+	width: 28.308px;
+	height: 23px;
+	left: 1674.846px;
+	top: 113px;
+	overflow: visible;
+}
+#Groupe_617 {
+	position: absolute;
+	width: 28.308px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trac_1005 {
+	fill: rgba(255,255,255,1);
+}
+.Trac_1005 {
+	overflow: visible;
+	position: absolute;
+	width: 28.308px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_697_bl {
+	fill: url(#Rectangle_697_bl);
+}
+.Rectangle_697_bl {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 567px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_18690 {
+	position: absolute;
+	width: 1288px;
+	height: 204px;
+	left: 316px;
+	top: 259px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 20px 99px rgba(0, 0, 0, 0.059));
+	position: absolute;
+	overflow: visible;
+	width: 1585px;
+	height: 501px;
+	left: 0px;
+	top: 0px;
+}
+#Composant_7__29 {
+	position: absolute;
+	width: 550px;
+	height: 65px;
+	left: 75px;
+	top: 96px;
+	overflow: visible;
+}
+#Rectangle_103 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(232,232,232,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_103 {
+	position: absolute;
+	overflow: visible;
+	width: 550px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Name {
+	left: 25px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -26px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(129,129,129,1);
+}
+#Composant_7__30 {
+	position: absolute;
+	width: 550px;
+	height: 65px;
+	left: 663px;
+	top: 96px;
+	overflow: visible;
+}
+#Rectangle_103_bs {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(232,232,232,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_103_bs {
+	position: absolute;
+	overflow: visible;
+	width: 550px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Email_address {
+	left: 25px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -26px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(129,129,129,1);
+}
+#Fill_Form {
+	left: 75px;
+	top: 37.5px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(34,34,34,1);
+}
+#austin-distel-wawEfYdpkag-unsp {
+	fill: rgba(69,98,219,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.austin-distel-wawEfYdpkag-unsp {
+	filter: drop-shadow(0px 20px 50px rgba(69, 98, 219, 0.22));
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1048,351) rotate(90deg);
+	transform-origin: center;
+}
+#austin-distel-wawEfYdpkag-unsp_bw {
+	fill: rgba(69,98,219,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.austin-distel-wawEfYdpkag-unsp_bw {
+	filter: drop-shadow(0px 20px 50px rgba(69, 98, 219, 0.22));
+	width: 34px;
+	height: 34px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1103,385) rotate(90deg);
+	transform-origin: center;
+}
+#Groupe_18661 {
+	opacity: 0.257;
+	position: absolute;
+	width: 36px;
+	height: 62px;
+	left: 942px;
+	top: 969px;
+	overflow: visible;
+}
+#Rectangle_105 {
+	fill: rgba(250,250,255,1);
+	stroke: rgba(95,120,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_105 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+}
+#Trac_260 {
+	fill: transparent;
+	stroke: rgba(95,120,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_260 {
+	overflow: visible;
+	position: absolute;
+	width: 15.124px;
+	height: 8.812px;
+	left: 12.58px;
+	top: 40.332px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_261 {
+	fill: transparent;
+	stroke: rgba(95,120,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_261 {
+	overflow: visible;
+	position: absolute;
+	width: 15.124px;
+	height: 8.812px;
+	left: 12.58px;
+	top: 31px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_18676 {
+	position: absolute;
+	width: 1520px;
+	height: 145.659px;
+	left: 200px;
+	top: 1141px;
+	overflow: visible;
+}
+#Our_Vacancies {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(34,34,34,1);
+}
+#Match4markets_operates_from_Le {
+	left: 0px;
+	top: 77.659px;
+	position: absolute;
+	overflow: visible;
+	width: 1521px;
+	height: 68px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(34,34,34,1);
+}
+#Composant_4__7 {
+	position: absolute;
+	width: 359px;
+	height: 470.191px;
+	left: 200px;
+	top: 1321.658px;
+	overflow: visible;
+}
+#Rectangle_692 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(234,234,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_692 {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 470.191px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_696 {
+	fill: rgba(155,155,155,1);
+}
+.Rectangle_696 {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 252.226px;
+	left: 0px;
+	top: 0px;
+}
+#Full_Stack_Developer {
+	left: 17px;
+	top: 267.342px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -22.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,34,1);
+}
+#We_are_immediately_looking_for {
+	left: 17px;
+	top: 309.342px;
+	position: absolute;
+	overflow: visible;
+	width: 326px;
+	height: 46px;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(34,34,34,1);
+}
+#Composant_3__3 {
+	position: absolute;
+	width: 325px;
+	height: 60.733px;
+	left: 17px;
+	top: 386.458px;
+	overflow: visible;
+}
+#Rectangle_684 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(69,98,219,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_684 {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 60.733px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Us {
+	left: 112.5px;
+	top: 18.366px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -26px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(69,98,219,1);
+}
+#Composant_4__8 {
+	position: absolute;
+	width: 359px;
+	height: 470.191px;
+	left: 587px;
+	top: 1321.658px;
+	overflow: visible;
+}
+#Rectangle_692_cd {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(234,234,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_692_cd {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 470.191px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_696_ce {
+	fill: rgba(155,155,155,1);
+}
+.Rectangle_696_ce {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 252.226px;
+	left: 0px;
+	top: 0px;
+}
+#Full_Stack_Developer_cf {
+	left: 17px;
+	top: 267.342px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -22.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,34,1);
+}
+#We_are_immediately_looking_for_cg {
+	left: 17px;
+	top: 309.342px;
+	position: absolute;
+	overflow: visible;
+	width: 326px;
+	height: 46px;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(34,34,34,1);
+}
+#Composant_3__3_ch {
+	position: absolute;
+	width: 325px;
+	height: 60.733px;
+	left: 17px;
+	top: 386.458px;
+	overflow: visible;
+}
+#Rectangle_684_ci {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(69,98,219,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_684_ci {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 60.733px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Us_cj {
+	left: 112.5px;
+	top: 18.366px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -26px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(69,98,219,1);
+}
+#Composant_4__9 {
+	position: absolute;
+	width: 359px;
+	height: 470.191px;
+	left: 974px;
+	top: 1321.658px;
+	overflow: visible;
+}
+#Rectangle_692_cl {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(234,234,234,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_692_cl {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 470.191px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_696_cm {
+	fill: rgba(155,155,155,1);
+}
+.Rectangle_696_cm {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 252.226px;
+	left: 0px;
+	top: 0px;
+}
+#Full_Stack_Developer_cn {
+	left: 17px;
+	top: 267.342px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -22.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,34,1);
+}
+#We_are_immediately_looking_for_co {
+	left: 17px;
+	top: 309.342px;
+	position: absolute;
+	overflow: visible;
+	width: 326px;
+	height: 46px;
+	line-height: 25px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(34,34,34,1);
+}
+#Composant_3__3_cp {
+	position: absolute;
+	width: 325px;
+	height: 60.733px;
+	left: 17px;
+	top: 386.458px;
+	overflow: visible;
+}
+#Rectangle_684_cq {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(69,98,219,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_684_cq {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 60.733px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Us_cr {
+	left: 112.5px;
+	top: 18.366px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -26px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(69,98,219,1);
+}
+#Groupe_18681 {
+	position: absolute;
+	width: 1139px;
+	height: 153px;
+	left: 391px;
+	top: 2032.864px;
+	overflow: visible;
+}
+#Open_application {
+	left: 371px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#The_match4markets_team_is_mult {
+	left: 0px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 1140px;
+	height: 82px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#austin-distel-wawEfYdpkag-unsp_cv {
+	fill: rgba(69,98,219,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.austin-distel-wawEfYdpkag-unsp_cv {
+	filter: drop-shadow(0px 40px 50px rgba(69, 98, 219, 0.098));
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	height: 287px;
+	left: 1652px;
+	top: 718px;
+}
+#Composant_18__3 {
+	position: absolute;
+	width: 276.436px;
+	height: 30.724px;
+	left: 199.999px;
+	top: 46.639px;
+	overflow: visible;
+}
+#Union_1_cy {
+	fill: url(#Union_1_cy);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Union_1_cy {
+	overflow: visible;
+	position: absolute;
+	width: 215.266px;
+	height: 31.724px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_18822 {
+	position: absolute;
+	width: 58.315px;
+	height: 30.169px;
+	left: 218.121px;
+	top: 0.277px;
+	overflow: visible;
+}
+#Trac_59624 {
+	fill: rgba(59,59,59,1);
+}
+.Trac_59624 {
+	overflow: visible;
+	position: absolute;
+	width: 20.448px;
+	height: 30.169px;
+	left: 37.867px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_59625 {
+	fill: rgba(59,59,59,1);
+}
+.Trac_59625 {
+	overflow: visible;
+	position: absolute;
+	width: 20.448px;
+	height: 30.169px;
+	left: 17.835px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_877 {
+	fill: rgba(59,59,59,1);
+}
+.Rectangle_877 {
+	position: absolute;
+	overflow: visible;
+	width: 16.525px;
+	height: 2.957px;
+	left: 2.938px;
+	top: 8.846px;
+}
+#Rectangle_878 {
+	fill: rgba(59,59,59,1);
+}
+.Rectangle_878 {
+	position: absolute;
+	overflow: visible;
+	width: 11.688px;
+	height: 2.765px;
+	left: 0px;
+	top: 13.824px;
+}
+#Rectangle_879 {
+	fill: rgba(59,59,59,1);
+}
+.Rectangle_879 {
+	position: absolute;
+	overflow: visible;
+	width: 7.684px;
+	height: 2.572px;
+	left: 4.005px;
+	top: 18.61px;
+}
+#Trac_59626 {
+	fill: rgba(59,59,59,1);
+}
+.Trac_59626 {
+	overflow: visible;
+	position: absolute;
+	width: 16.165px;
+	height: 12.335px;
+	left: 8.881px;
+	top: 8.847px;
+	transform: matrix(1,0,0,1,0,0);
+}
