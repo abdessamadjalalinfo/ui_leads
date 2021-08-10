@@ -533,27 +533,27 @@
 	</div>
 
 	<div id="Composant_13__1" class="Composant_13___1">
-		<div id="Home">
+		<div id="Home" onclick="location.href='/';">
 			<span>Home</span>
 		</div>
 	</div>
 	<div id="Composant_13__2" class="Composant_13___2">
-		<div id="Services">
+		<div id="Services"  onclick="location.href='/services';">
 			<span>Services</span>
 		</div>
 	</div>
 	<div id="Composant_13__3" class="Composant_13___3">
-		<div id="Organization">
+		<div id="Organization"  onclick="location.href='/organization';">
 			<span>Organization</span>
 		</div>
 	</div>
 	<div id="Composant_13__4" class="Composant_13___4">
-		<div id="Vacancies">
+		<div id="Vacancies"  onclick="location.href='/vacancies';">
 			<span>Vacancies</span>
 		</div>
 	</div>
 	<div id="Composant_13__5" class="Composant_13___5">
-		<div id="Contact_US">
+		<div id="Contact_US"  onclick="location.href='/contact';">
 			<span>Contact US</span>
 		</div>
 	</div>
